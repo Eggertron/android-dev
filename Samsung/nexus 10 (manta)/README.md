@@ -2,21 +2,21 @@
 
 An aging 10" tablet that has been abandoned
 by Google and Samsung. Now the device is kept
-relevant by xda community, link here.
+relevant by [xda community](https://forum.xda-developers.com/c/google-nexus-10.1914/).
 
 ## Android 10
 
-(Link to lineage OS 17)[https://forum.xda-developers.com/t/rom-lineageos-17-1-unofficial-nexus10-2022-06-27.3557735/]
+[Link to lineage OS 17](https://forum.xda-developers.com/t/rom-lineageos-17-1-unofficial-nexus10-2022-06-27.3557735/)
 
 ## Resizing Partitions
 
 Newer OS (Android 10) requires more than the default
 787 MB of `/system` partition to install and
-run. Link here to partition package
+run. [Link here to partition package](https://forum.xda-developers.com/t/rom-lineageos-17-1-unofficial-nexus10-2022-06-27.3557735/page-48#post-77764246)
 
 ## TWRP
 
-Link to TWRP image download
+Link to [TWRP image download](https://twrp.me/samsung/samsungnexus10.html)
 
 ## performance adjustments
 
