@@ -6,7 +6,7 @@ relevant by xda community, link here.
 
 ## Android 10
 
-Link to lineage OS 17 here
+(Link to lineage OS 17)[https://forum.xda-developers.com/t/rom-lineageos-17-1-unofficial-nexus10-2022-06-27.3557735/]
 
 ## Resizing Partitions
 
