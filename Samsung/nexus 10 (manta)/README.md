@@ -25,8 +25,10 @@ Nexus 10.
 
 ### Resize resolution
 
+Bring the resolution down to half scale (from 2560x1600)
+
 ```
-adb shell wm size 1000x800
+adb shell wm size 1280x800
 ```
 
 Density can be updated from the android settings app,
