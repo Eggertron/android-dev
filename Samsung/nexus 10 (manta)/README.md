@@ -25,20 +25,20 @@ Nexus 10.
 
 ### Resize resolution
 
-'''
+```
 adb shell wm size 1000x800
-'''
+```
 
 Density can be updated from the android settings app,
 or,
 
-'''
+```
 adb shell wm density 233
-'''
+```
 
 If you are getting permission errors with `adb`
 
-'''
+```
 adb kill-server
 sudo adb devices
-'''
+```
