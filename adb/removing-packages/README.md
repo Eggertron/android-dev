@@ -3,7 +3,9 @@ Windows Batch Files to help with identifying and removing Android packages from 
 The system wide packages will remain on the device, allowing for carrier and manufacturer OTA updates.
 
 ## Files needed
-Android Debug Bridge (ADB) (not included)
+Android Debug Bridge (ADB)
+
+- [Download from Google](https://developer.android.com/studio/releases/platform-tools)
 
 ## Samsung
 
