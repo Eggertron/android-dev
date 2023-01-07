@@ -37,6 +37,9 @@ com.att.dh
 com.att.tv
 com.asurion.android.protech.att
 com.att.myWireless
+com.att.mobilesecurity
+com.att.callprotect
+com.att.android.attsmartwifi
 ```
 
 ### Samsung Bloat
@@ -48,6 +51,14 @@ com.samsung.android.bixby.agent
 com.samsung.android.bixbyvision.framework
 com.samsung.android.bixby.wakeup
 com.samsung.android.kidsinstaller
+com.samsung.sree
+com.samsung.android.app.notes
+com.samsung.android.app.notes.addons
+com.sec.android.app.kidshome
+com.samsung.android.app.routines
+com.samsung.android.visionintelligence
+com.sec.android.app.sbrowser
+com.samsung.android.app.spage
 ```
 
 ### Facebook Bloat
@@ -62,4 +73,12 @@ com.facebook.appmanager
 ```
 com.microsoft.appmanager
 com.microsoft.skydrive
+```
+
+### General Bloat
+
+```
+com.directv.dvrscheduler
+com.particlenews.newsbreak
+jp.gocro.smartnews.android
 ```
