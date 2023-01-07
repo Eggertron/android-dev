@@ -1,9 +1,19 @@
 # Samsung Galaxy S21 Ultra
 
+Use the commands below to remove bloatware and then
+reset the phone into recovery mode and perform a
+clear cache.
+
 adb command to list all installed packages as user
 
 ```
 adb shell pm list packages --user 0
+```
+
+Example:
+
+```
+adb shell pm list packages --user 0 | findstr "facebook"
 ```
 
 Adb command to delete a package
@@ -23,7 +33,10 @@ adb shell pm uninstall -k --user 0 com.samsung.android.forest
 ### AT&T Bloat
 
 ```
-
+com.att.dh
+com.att.tv
+com.asurion.android.protech.att
+com.att.myWireless
 ```
 
 ### Samsung Bloat
